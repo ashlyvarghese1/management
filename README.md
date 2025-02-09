@@ -36,66 +36,46 @@ For Hardware:
 - Visual Studio Code (Code editor),Python (Programming language),Flask (Web framework)
 Pandas, NumPy, Scikit-learn (Data analysis and machine learning libraries),Web Browser (Google Chrome, Firefox, etc. for frontend testing)
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
 Screenshot1 :- FRONT PAGE
+https://drive.google.com/file/d/1NPOO5aeRqx8EImJtaJVUH2IUrT20sUlA/view?usp=sharing
 
+Screenshot2:-High Risk
+https://drive.google.com/file/d/1OXa7EhDkT2DKcHNhcWzn4W6gZhlNRY3e/view?usp=sharing
 
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+Screenshot3:-Low Risk
+https://drive.google.com/file/d/1uB0MV2yp4pXKMffVDuG0Y0hisNzEyyVS/view?usp=sharing
 
 # Build Photos
-![Team](Add photo of your team here)
+Team:-Tech Titans
+https://drive.google.com/file/d/19ztx-Bfh1IB4ygJJKS-nyKmEQ3xk-BkH/view?usp=sharing
 
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
 
 ![Final](Add photo of final product here)
-*Explain the final build*
+https://drive.google.com/file/d/1NPOO5aeRqx8EImJtaJVUH2IUrT20sUlA/view?usp=sharing
+
+#Diagrams
+Architecture diagram:
+https://drive.google.com/file/d/1xseTMnHgzdqkpCDX6M27Ospf9Uo7R25t/view?usp=sharing
+
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1XTD0fX4WQl3jwDj5X743vKK1pdKH4Bad/view?usp=sharing
 
 # Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1XTD0fX4WQl3jwDj5X743vKK1pdKH4Bad/view?usp=sharing
+
+
 
 ## Team Contributions
-- AFRIN FATHIMA: [Specific contributions]
-- ASHLY VARGHESE : [Specific contributions]
-- [ASHNA SANIL]: [Specific contributions]
+- AFRIN FATHIMA:[script,frontend]
+- ASHLY VARGHESE : [index,repository]
+- ASHNA SANIL: [model training,index]
 
 ---
 Made with ❤️ at TinkerHub
